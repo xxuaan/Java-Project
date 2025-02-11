@@ -1,0 +1,14 @@
+Questions:
+1. What Java construct is used to print your name, and where should it be placed within the class file PersonalGreeting.java?
+- Java construct is the line " System.out.println("Hello, Aris"); "
+- it is the output construct that performs the task of displaying the text as per the question requirements.
+- It is placed inside the main method.
+
+2. Which programming structure is utilized to handle different module codes, and how would you update it as per the instructions?
+- The switch structure is used to handle different module codes.
+- Change the "String modules" variable based on the desired outcome/needs.
+
+3. How can you implement a for loop to print only the odd numbers between 102 and 66 in descending order in the OddNumbers.java class?
+- START_NUM - 1 ensures the loop starts from 101 (the first odd number below 102).
+- The condition i >= END_NUM ensures the loop stops when the number drops below 66.
+- The i -= 2 decrements by 2 to print odd numbers only.
